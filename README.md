@@ -24,8 +24,8 @@ Resize each frame, create a blank image, divide it into quadrants, and assign re
 ### Step 5:
 Display processed frames on the screen using cv2.imshow(), and continuously check for a termination signal (e.g., pressing 'q' key) to break out of the loop.
 ## Program:
-### Developed By: Anish Raj P
-### Register No: 212222230010
+### Developed By: Harish R
+### Register No: 2122222110012
 ## i) Write the frame as JPG file
 ```python
 import cv2
